@@ -1,5 +1,3 @@
-![👋 Olá, meu nome é Victor Rabay](https://media.licdn.com/dms/image/v2/C5616AQH0KLoWp7VnVA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1601313340283?e=1732147200&v=beta&t=j-xa2KG7TZZQfikOPGmsJZI-JqZiPAqHGcezEIIO3sY)
-
 ![Profile views](https://komarev.com/ghpvc/?username=rabay&label=Profile%20views&color=0e75b6&style=flat)
 
 <div id="toc">
