@@ -18,7 +18,7 @@
 **<h3 align="left">Pinga-fogo:</h3
 >**
 
-- 💼 Estou trabalhando em: **💻 Cast Group / SEBRAE-SP **
+- 💼 Estou trabalhando em: **💻 SEBRAE-SP **
 - 🌱 Estou estudando sobre: **📚 AWS, Azure, Terraform e Python**
 - 💬 Pergunte-me sobre: **💡 DevOps e etc...**
 
