@@ -15,10 +15,9 @@
 
  **<h3 align="left">🚀 Engenheiro DevOps com mais de 15 anos de experiência em TI, especializado em automação e integração de processos em ambientes Linux e Cloud. </h3>**
 
-**<h3 align="left">Pinga-fogo:</h3
->**
+**<h3 align="left">Pinga-fogo:</h3>**
 
-- 💼 Estou trabalhando em: **💻 SEBRAE-SP **
+- 💼 Estou trabalhando em: **💻 SEBRAE-SP**
 - 🌱 Estou estudando sobre: **📚 AWS, Azure, Terraform e Python**
 - 💬 Pergunte-me sobre: **💡 DevOps e etc...**
 
